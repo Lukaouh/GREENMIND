@@ -680,14 +680,10 @@ margin-top: -67px;
     display: inline-flex;
 }
 
-
-
-
 .footer_box{
 position: absolute;
 width: 1440px;
 height: 400px;
-
 top: 3616px;
 background: #C1DCDC;
 }
@@ -730,10 +726,6 @@ color: rgba(30, 30, 30, 0.5);
     color: rgba(30, 30, 30, 0.75);
    
 }
-
-
-
-
 .reserved{
 position: absolute;
 width: 429px;
@@ -755,13 +747,33 @@ color: rgba(30, 30, 30, 0.5);
 ul h4{
     color: #1E1E1E;
 }
+.contact ul{
+    width: 90px;
+    line-height: 4px;
+  
+}
+.company ul{
+    width: 90px;
+    line-height: 4px;
+  
+}
+.information ul{
+    line-height: 4px;
+  
+}
+
+
+  
+
+
+  
 
 .Footer_navbar{
 
 position: absolute;
 display: flex;
 gap: 48px;
-font-family: 'Poppins', sans-serif;
+
 margin-left: 800px;
 margin-top: 360px;
 width: 111px;
